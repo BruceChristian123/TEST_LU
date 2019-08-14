@@ -1,0 +1,11 @@
+Pillow==5.4.1
+matplotlib==2.2.2
+numpy==1.14.0
+opencv-python=4.0.0.21
+pandas==0.22.0
+pip==19.0.1
+scikit-image=0.14.2
+scikit-learn==0.19.1
+scipy==1.2.1
+tqdm==4.31.1
+pip3 install torch==1.2.0+cu92 torchvision==0.4.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html
